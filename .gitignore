@@ -1,0 +1,11 @@
+# IDEs and editors
+.vs/
+
+# bin and obj folders
+/AspNetCoreDynamicProxyExample/bin
+/AspNetCoreDynamicProxyExample/obj
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
